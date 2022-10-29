@@ -1,0 +1,24 @@
+#containter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#main {
+    margin-top: 200px;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    color: rgb(10, 2, 2);
+    text-shadow: 0 0px 50px rgb(255, 255, 255);
+    text-shadow: 0 0px 50px rgb(255, 255, 255);
+    text-shadow: 0 0px 50px rgb(255, 255, 255);
+    text-shadow: 0 0px 50px rgb(255, 255, 255);
+    font-size: 70px;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    background-image: url("bg.png");
+}
